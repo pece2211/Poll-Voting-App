@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "516295845372",
+    "project_id": "android-poll-database",
+    "storage_bucket": "android-poll-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516295845372:android:05947d1694dae407407e79",
+        "android_client_info": {
+          "package_name": "com.example.pollvotingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516295845372-2i8oaraneico4j188hpvj7tsqnr6e6dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pollvotingapp",
+            "certificate_hash": "da0e5c40617aec7d0b9b4bbd8ece3766929254d7"
+          }
+        },
+        {
+          "client_id": "516295845372-5h80ub446uiarmvae9ni8hs9dpp626kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2MfabeLOzOIMtOLfztyifjXhB0UMyTxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516295845372-5h80ub446uiarmvae9ni8hs9dpp626kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
